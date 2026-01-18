@@ -2,6 +2,8 @@
 
 Chord generator web app using a Rust-based WebAssembly module, just to play around.
 
+🔗 Live demo: https://cd72738d.chordgen.pages.dev/
+
 ## Installation
 
 ### Install wasm-pack
