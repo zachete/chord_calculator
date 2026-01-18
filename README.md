@@ -4,7 +4,7 @@ Chord generator web app using a Rust-based WebAssembly module, just to play arou
 
 ### 🔗 Live demo (deployed on CloudFlare Pages)
 
-[https://cd72738d.chordgen.pages.dev](https://cd72738d.chordgen.pages.dev)
+[https://chordgen.pages.dev](https://chordgen.pages.dev)
 
 ## Installation
 
