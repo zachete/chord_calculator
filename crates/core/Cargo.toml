@@ -6,7 +6,3 @@ edition = "2024"
 [lib]
 name = "core"
 path = "lib.rs"
-
-[dependencies]
-serde = { version = "1.0.228", features = ["derive"] }
-serde_yaml = "0.9.34"
