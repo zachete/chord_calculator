@@ -2,7 +2,9 @@
 
 Chord generator web app using a Rust-based WebAssembly module, just to play around.
 
-🔗 Live demo: https://cd72738d.chordgen.pages.dev/
+### 🔗 Live demo (deployed on CloudFlare Pages)
+
+[https://cd72738d.chordgen.pages.dev](https://cd72738d.chordgen.pages.dev)
 
 ## Installation
 
