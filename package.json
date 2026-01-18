@@ -1,6 +1,6 @@
 {
   "name": "chord-generator",
-  "description": "Chord generator web app using a Rust-based WebAssembly module, just to play around.",
+  "description": "Chord generator web app using a Rust-based WebAssembly module.",
   "author": "Alex Emko",
   "version": "1.0.0",
   "type": "module",
