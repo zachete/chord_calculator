@@ -1,0 +1,19 @@
+# maybe implement this rules later
+#
+scales:
+  major:
+    steps: [0, 2, 4, 5, 7, 9, 11]
+  natural_minor:
+    steps: [0, 2, 3, 5, 7, 8, 10]
+
+chords:
+  maj: [0, 4, 7]
+  min: [0, 3, 7]
+  dim: [0, 3, 6]
+  maj7: [0, 4, 7, 11]
+  min7: [0, 3, 7, 10]
+  dom7: [0, 4, 7, 10]
+
+diatonic:
+  major: [maj, min, min, maj, maj, min, dim]
+  natural_minor: [min, dim, maj, min, min, maj, maj]
