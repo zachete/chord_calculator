@@ -1,8 +1,8 @@
-# Chord Generator
+# Chord Calculator
 
-Chord generator web app using a Rust-based WebAssembly module, just to play around.
+Chord calculator web app using a Rust-based WebAssembly module, just to play around.
 
-### 🔗 Live demo (deployed on CloudFlare Pages)
+### 🔗 Live demo
 
 [https://chordgen.pages.dev](https://chordgen.pages.dev)
 
