@@ -16,5 +16,9 @@
     "vite": "^5.0.0",
     "wrangler": "^4.59.2"
   },
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "@moonwave99/fretboard.js": "^0.2.13",
+    "uhtml": "^5.0.9"
+  }
 }

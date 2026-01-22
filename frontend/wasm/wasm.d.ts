@@ -3,11 +3,14 @@
 
 export function calc_chord(root: string, chord_type: string): string[];
 
+export function calc_guitar_neck(root: string, chord_type: string): string;
+
 export type InitInput = RequestInfo | URL | Response | BufferSource | WebAssembly.Module;
 
 export interface InitOutput {
     readonly memory: WebAssembly.Memory;
     readonly calc_chord: (a: number, b: number, c: number, d: number) => [number, number, number, number];
+    readonly calc_guitar_neck: (a: number, b: number, c: number, d: number) => [number, number, number, number];
     readonly __wbindgen_externrefs: WebAssembly.Table;
     readonly __wbindgen_malloc: (a: number, b: number) => number;
     readonly __wbindgen_realloc: (a: number, b: number, c: number, d: number) => number;
