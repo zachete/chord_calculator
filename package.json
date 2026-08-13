@@ -1,6 +1,6 @@
 {
-  "name": "chord-generator",
-  "description": "Chord generator web app using a Rust-based WebAssembly module.",
+  "name": "guitar-chord-fret-positions",
+  "description": "It calculates the fret positions for a given chord.",
   "author": "Alex Emko",
   "version": "1.0.0",
   "type": "module",
